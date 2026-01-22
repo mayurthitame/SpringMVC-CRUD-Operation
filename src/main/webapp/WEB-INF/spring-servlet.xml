@@ -40,9 +40,9 @@ http://www.springframework.org/schema/util
 		<property name="driverClassName"
 			value="com.mysql.cj.jdbc.Driver"></property>
 		<property name="url"
-			value="jdbc:mysql://172.31.4.58:3306/productcrud?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=UTC"></property>
+			value="jdbc:mysql://spring_mysql:3306/productcrud?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=UTC"></property>
 		<property name="username" value="appuser"></property>
-		<property name="password" value="Mayur@1410"></property>
+		<property name="password" value="Mayur@1410"></property>	
 
 	</bean>
 
