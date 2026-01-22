@@ -41,7 +41,7 @@ http://www.springframework.org/schema/util
 			value="com.mysql.cj.jdbc.Driver"></property>
 		<property name="url"
 			value="jdbc:mysql://172.31.4.58:3306/productcrud?useSSL=false&amp;serverTimezone=UTC"></property>
-		<property name="username" value="root"></property>
+		<property name="username" value="appuser"></property>
 		<property name="password" value="Mayur@1410"></property>
 
 	</bean>
